@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Dostosuj</string>
+    <string name="clone_copy_mode">Stopklatka</string>
+    <string name="clone_drag_to_adjust_the_posture">Wybierz i przeciągnij, aby dostosować</string>
+    <string name="clone_guide_copy_tip3">Nagraj obiekt, który porusza się na całej długości ekranu.</string>
+    <string name="clone_guide_copy_tip5">Twój obiekt może jeździć na nartach, grać w koszykówkę, tańczyć lub po prostu spacerować.</string>
+    <string name="clone_guide_copy_tip6">Zatrzymane klatki zostaną „zabrane” podczas odtwarzania wideo.</string>
+    <string name="clone_guide_copy_tip7">Eksperymentuj z pozami.</string>
+    <string name="clone_guide_copy_title2">Stopklatka wideo</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Włącz, aby automatycznie skupiać się na ludziach i zwierzętach. Będziesz także mógł ręcznie wybierać obiekty do śledzenia.</string>
+    <string name="pref_camera_track_focus_preferred_title">Śledzenie ostrości</string>
+    <string name="pref_video_ai_audio_single">Dźwięk z przodu</string>
+    <string name="prek_b_j_o">Odtwórz efekt dźwięku przestrzennego</string>
+    <string name="prek_b_j_p">Zmniejsz wpływ wiatru na nagrywanie dźwięku</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Filtruj dźwięki zza ekranu podczas nagrywania</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

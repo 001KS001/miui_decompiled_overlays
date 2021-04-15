@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">মিলাওক</string>
+    <string name="clone_copy_mode">ফ্ৰেম ফ্ৰীজ</string>
+    <string name="clone_drag_to_adjust_the_posture">মিলাবলৈ চয়ন কৰক আৰু টানক</string>
+    <string name="clone_guide_copy_tip3">স্ক্ৰীণখনৰ সকলো স্থানলৈ লৰচৰ কৰি থকা এটা বিষয় শ্বুট কৰক।</string>
+    <string name="clone_guide_copy_tip5">আপোনাৰ বিষয়টোৱে স্কী কৰিব, বাস্কেটবল খেলিব, নাচিব, বা খোজ কাঢ়িব পাৰে।</string>
+    <string name="clone_guide_copy_tip6">"ভিডিঅ'টো চলি থকাৰ সময়ত ফ্ৰীজ হোৱা ফ্ৰেমসমূহ \"বাছি লোৱা\" হ'ব।"</string>
+    <string name="clone_guide_copy_tip7">ভংগীমাৰ সৈতে পৰীক্ষা কৰক</string>
+    <string name="clone_guide_copy_title2">"ফ্ৰেম ভিডিঅ' ফ্ৰীজ"</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">"ব্যক্তি আৰু জন্তুৰ ওপৰত স্বয়ংক্ৰিয়ভাৱে গুৰুত্ব প্ৰদানৰ বাবে অন কৰক। মেনুৱেলভাৱে ট্ৰেক কৰাৰ বাবে আপুনি বিষয় চয়ন কৰিবলৈও সক্ষম হ'ব।"</string>
+    <string name="pref_camera_track_focus_preferred_title">"ফ'কাচ ট্ৰেকিং"</string>
+    <string name="pref_video_ai_audio_single">সন্মুখৰ ধ্বনি</string>
+    <string name="prek_b_j_o">"ষ্টেৰিঅ' চাৰাউণ্ড প্ৰভাৱ পুনঃসৃষ্টি কৰক"</string>
+    <string name="prek_b_j_p">ধ্বনি ৰেকৰ্ডিঙত বতাহৰ প্ৰভাৱ হ্ৰাস কৰক</string>
+    <string name="prep_video_ai_audio_single_desc_tip">ৰেকৰ্ডিঙৰ সময়ত স্ক্ৰীণৰ পিছফালৰ ধ্বনি ফিল্টাৰ কৰক</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">অ্যাডজাস্ট করুন</string>
+    <string name="clone_copy_mode">ফ্রেম ফ্রিজ</string>
+    <string name="clone_drag_to_adjust_the_posture">অ্যাডজাস্ট করতে বেছে নিয়ে ড্র্যাগ করুন</string>
+    <string name="clone_guide_copy_tip3">এমন জিনিস শুট করুন যা সারা স্ক্রিন জুড়ে ঘোরা ফেরা করে</string>
+    <string name="clone_guide_copy_tip5">আপনার সাবজেক্ট স্কি, বাসকেটবল খেলা, ডান্স ও শুধু হাঁটতেও পারে।</string>
+    <string name="clone_guide_copy_tip6">ফ্রোজেন ফ্রেম ভিডিও প্লে করার সময় \"বেছে নেওয়া হবে\"।</string>
+    <string name="clone_guide_copy_tip7">বিভিন্ন পোজ দিয়ে এক্সপেরিমেন্ট করে দেখুন</string>
+    <string name="clone_guide_copy_title2">ফ্রেম ভিডিও ফ্রিজ করুন</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">অটোমেটিক লোকজন ও পশুপ্রাণির উপর ফোকাস করতে এটি চালু করুন। আপনি নিজে থেকেও সাবজেক্ট বেছে নিয়ে ট্র্যাক করতে পারবেন।</string>
+    <string name="pref_camera_track_focus_preferred_title">ফোকাস ট্র্যাকিং</string>
+    <string name="pref_video_ai_audio_single">ফ্রন্টাল সাউন্ড</string>
+    <string name="prek_b_j_o">স্টিরিও সারাউন্ড এফেক্ট রিক্রিয়েট করুন</string>
+    <string name="prek_b_j_p">সাউন্ড রেকর্ডিং এ হাওয়ার প্রভার কমান</string>
+    <string name="prep_video_ai_audio_single_desc_tip">রেকর্ডিং এর সময় স্ক্রিনের পেছনের থেকে আওয়াজ ফিল্টার করুন</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

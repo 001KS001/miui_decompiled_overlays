@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Daidaita</string>
+    <string name="clone_copy_mode">Daskare firem</string>
+    <string name="clone_drag_to_adjust_the_posture">Zaba sai ka jawo don ka daidaita</string>
+    <string name="clone_guide_copy_tip3">Dauki hoton abun da ke motsawa gabaɗaya akan allo.</string>
+    <string name="clone_guide_copy_tip5">Abun ku na iya yin wasan ski, kwando, rawa, ko kuma tafiya kawai.</string>
+    <string name="clone_guide_copy_tip6">"Za'a ''zabi'' su firem din hoto da aka daskare yayin da bidiyo ke yi."</string>
+    <string name="clone_guide_copy_tip7">Kwarewa da daukar hotuna.</string>
+    <string name="clone_guide_copy_title2">Daskare firem na bidiyo</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Kunna don kula da hankali ga mutane da dabbobi kai tsaye. Hakanan zaku iya zaɓar batutuwa don bin sawu da hannu.</string>
+    <string name="pref_camera_track_focus_preferred_title">Mayar da hankalin bin sawun</string>
+    <string name="pref_video_ai_audio_single">Sautin gaban</string>
+    <string name="prek_b_j_o">Sake kunna tasirin sitiriyo</string>
+    <string name="prek_b_j_p">Rage tasirin iska akan rikodin sauti</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Tace sautuna daga bayan allo yayin yin rikodi</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Aanpassen</string>
+    <string name="clone_copy_mode">Bevroren beeld</string>
+    <string name="clone_drag_to_adjust_the_posture">Selecteer en sleep om aan te passen</string>
+    <string name="clone_guide_copy_tip3">Maak een opname van een onderwerp dat helemaal over het scherm beweegt.</string>
+    <string name="clone_guide_copy_tip5">Uw onderwerp kan skiën, basketballen, dansen of gewoon wandelen.</string>
+    <string name="clone_guide_copy_tip6">Tijdens het afspelen van video verzamelt het onderwerp geleidelijk alle bevroren beelden.</string>
+    <string name="clone_guide_copy_tip7">Experimenteer met poses.</string>
+    <string name="clone_guide_copy_title2">"Zet video's in frames stil"</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Schakel in om automatisch de focus op mensen en dieren te houden. U kunt ook onderwerpen selecteren om handmatig te volgen.</string>
+    <string name="pref_camera_track_focus_preferred_title">Focus-tracking</string>
+    <string name="pref_video_ai_audio_single">Frontaal geluid</string>
+    <string name="prek_b_j_o">Stereo surround-effect recreëren</string>
+    <string name="prek_b_j_p">Verminder de impact van wind op geluidsopname</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Filter geluiden van achter het scherm tijdens het opnemen</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

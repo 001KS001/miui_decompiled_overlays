@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">ਅਨੁਕੂਲ ਬਣਾਓ</string>
+    <string name="clone_copy_mode">ਫ਼੍ਰੀਜ਼ ਫ਼੍ਰੇਮ</string>
+    <string name="clone_drag_to_adjust_the_posture">ਚੁਣੋ ਅਤੇ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ ਘਸੀਟੋ</string>
+    <string name="clone_guide_copy_tip3">ਕੋਈ ਵਿਸ਼ਾ ਸ਼ੂਟ ਕਰੋ ਜੋ ਸਾਰੀ ਸਕ੍ਰੀਨ ਦੁਆਲੇ ਘੁੰਮੇ</string>
+    <string name="clone_guide_copy_tip5">ਉਹ ਵਿਸ਼ਾ ਸਕੀ ਕਰਨਾ, ਬਾਸਕੇਟਬਾਲ ਖੇਡਣਾ, ਨੱਚਣਾ ਜਾਂ ਆਮ ਤੁਰਨਾ ਹੋ ਸਕਦਾ ਹੈ।</string>
+    <string name="clone_guide_copy_tip6">ਵੀਡੀਓ ਚਲਾਉਂਦੇ ਸਮੇਂ ਫ਼੍ਰੀਜ਼ ਕੀਤੇ ਫ਼੍ਰੇਮ \"ਚੁਣ ਲਏ\" ਜਾਣਗੇ।</string>
+    <string name="clone_guide_copy_tip7">ਵੱਖ-ਵੱਖ ਪੋਜ਼ ਬਣਾ ਕੇ ਦੇਖੋ।</string>
+    <string name="clone_guide_copy_title2">ਫ਼੍ਰੇਮ ਵੀਡੀਓ ਫ਼੍ਰੀਜ਼ ਕਰੋ</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">"ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਲੋਕਾਂ ਅਤੇ ਜਾਨਵਰਾਂ ਉੱਤੇ ਧਿਆਨ ਬਣਾਏ ਰੱਖਣ ਲਈ ਇਸਨੂੰ ਚਾਲੂ ਕਰੋ। ਆਪ ਹੱਥੀਂ ਟ੍ਰੈਕ ਕਰਨ ਲਈ ਵਿਸ਼ੇ ਵੀ ਚੁਣ ਸਕੋਗੇ।"</string>
+    <string name="pref_camera_track_focus_preferred_title">ਫ਼ੋਕਸ ਟ੍ਰੈਕਿੰਗ</string>
+    <string name="pref_video_ai_audio_single">ਸਾਹਮਣੀ ਧੁਨੀ</string>
+    <string name="prek_b_j_o">ਸਟੀਰਿਓ ਚੁਗਿਰਦਾ ਪ੍ਰਭਾਵ ਮੁੜ ਸਿਰਜੋ</string>
+    <string name="prek_b_j_p">ਧੁਨੀ ਰਿਕਾਰਡਿੰਗਾਂ ਉੱਤੇ ਹਵਾ ਦੇ ਅਸਰ ਨੂੰ ਘਟਾਓ</string>
+    <string name="prep_video_ai_audio_single_desc_tip">ਰਿਕਾਰਡਿੰਗ ਦੌਰਾਨ ਸਕ੍ਰੀਨ ਦੇ ਪਿਛਿਓਂ ਧੁਨੀ ਫ਼ਿਲਟਰ ਕਰੋ</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Irranġa</string>
+    <string name="clone_copy_mode">Iffriża l-frejm</string>
+    <string name="clone_drag_to_adjust_the_posture">Agħżel u kaxkar biex tirranġa</string>
+    <string name="clone_guide_copy_tip3">Iġbed suġġett li qed jimxi min-naħa għall-oħra tal-iskrin.</string>
+    <string name="clone_guide_copy_tip5">"Is-suġġett tiegħek jista' jkun qed jiskijja, jilgħab il-basketball, jiżfen jew saħansitra jimxi."</string>
+    <string name="clone_guide_copy_tip6">L-istampi li waqqaft se \"jinqabdu\" waqt li l-vidjo jkun qed jintwera.</string>
+    <string name="clone_guide_copy_tip7">Esperimenta bil-pożi.</string>
+    <string name="clone_guide_copy_title2">Vidjos bil-frejms iffriżati</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">"Ixgħel biex iżżomm awtomatikament lill-annimali u lin-nies fiċ-ċentru tal-attenzjoni. Se tkun tista' wkoll tagħżel is-suġġetti tiegħek inti stess biex issegwihom."</string>
+    <string name="pref_camera_track_focus_preferred_title">Iffukar segwit</string>
+    <string name="pref_video_ai_audio_single">"Ħoss ta' quddiem"</string>
+    <string name="prek_b_j_o">"Oħloq effett ta' stereo surround"</string>
+    <string name="prek_b_j_p">Naqqas l-istorbju tar-riħ mir-reġistrazzjonijiet tal-ħoss</string>
+    <string name="prep_video_ai_audio_single_desc_tip">"Waqt li qed tirreġistra, imblokka l-ħsejjes ta' wara l-iskrin"</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

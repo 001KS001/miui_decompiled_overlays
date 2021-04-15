@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Prilagodi</string>
+    <string name="clone_copy_mode">Zamrzni kader</string>
+    <string name="clone_drag_to_adjust_the_posture">Izberite in podrsajte, da bi prilagodili</string>
+    <string name="clone_guide_copy_tip3">Posnemite objekt, ki se premika čez celi zaslon.</string>
+    <string name="clone_guide_copy_tip5">Vaš objekt lahko smuča, igra košarko, pleše ali preprosto hodi.</string>
+    <string name="clone_guide_copy_tip6">Zamržnjeni posnetki bodo \"izbrani\" med predvajanje videa.</string>
+    <string name="clone_guide_copy_tip7">Poskusite različne poze.</string>
+    <string name="clone_guide_copy_title2">Zamrzni kader videa</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Vklopite, da bi samodejno ohranili fokus na ljudeh in živalih. Subjekte, ki jim želite slediti boste lahko izbrali ročno.</string>
+    <string name="pref_camera_track_focus_preferred_title">Sledenje fokusu</string>
+    <string name="pref_video_ai_audio_single">Prednji zvok</string>
+    <string name="prek_b_j_o">Poustvari učinek stereo surround</string>
+    <string name="prek_b_j_p">Zmanjša vpliv vetra na snemanje zvoka</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Med snemanjem filtrira zvoke iz ozadja</string>
+    <string name="ultra_pixel_100mp">100 MP</string>
+    <string name="ultra_pixel_50mp">50 MP</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">ایڈجسٹ کریں</string>
+    <string name="clone_copy_mode">فریم کو منجمد کریں</string>
+    <string name="clone_drag_to_adjust_the_posture">ایڈجسٹ کرنے کے لیے منتخب کریں اور ڈریگ کریں</string>
+    <string name="clone_guide_copy_tip3">پوری اسکرین پر حرکت کرنے والے کسی موضوع کو شوٹ کریں۔</string>
+    <string name="clone_guide_copy_tip5">آپ کا موضوع اسکی کر سکتا, باسکٹ بال کھیل سکتا, ڈانس کر سکتا, یا صرف چہل قدمی کر سکتا ہے۔</string>
+    <string name="clone_guide_copy_tip6">ویڈیو چلنے کے دوران منجمد فریموں کو ”اٹھایا“ جائے گا۔</string>
+    <string name="clone_guide_copy_tip7">پوز کے ساتھ تجربہ کریں۔</string>
+    <string name="clone_guide_copy_title2">فریم ویڈیوز کو منجمد کریں</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">خودکار طور پر لوگوں اور جانوروں پر فوکس برقرار رکھنے کے لیے آن کریں۔ آپ دستی طور پر ٹریک کرنے کے لیے بھی موضوعات منتخب کر سکیں گے۔</string>
+    <string name="pref_camera_track_focus_preferred_title">فوکس ٹریکنگ</string>
+    <string name="pref_video_ai_audio_single">سامنے کی آواز</string>
+    <string name="prek_b_j_o">اسٹیریو سراؤنڈ اثر دوبارہ بنائیں</string>
+    <string name="prek_b_j_p">ساؤنڈ ریکارڈ نگ پر ہوا کے اثر کو کم کریں</string>
+    <string name="prep_video_ai_audio_single_desc_tip">ریکارڈنگ کے وقت اسکرین کے پیچھے کی آوازیں فلٹر کریں</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

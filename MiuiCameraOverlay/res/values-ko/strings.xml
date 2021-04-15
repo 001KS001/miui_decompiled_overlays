@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">조정</string>
+    <string name="clone_copy_mode">프리즈 프레임</string>
+    <string name="clone_drag_to_adjust_the_posture">선택 및 드래그로 조정</string>
+    <string name="clone_guide_copy_tip3">화면의 끝에서 끝으로 이동하는 대상을 촬영하십시오.</string>
+    <string name="clone_guide_copy_tip5">대상은 스키, 농구, 댄스 또는 단순한 걷기 등을 할 수 있습니다.</string>
+    <string name="clone_guide_copy_tip6">동영상 재생 중에 프리즈한 프레임이 순차적으로 획득됩니다.</string>
+    <string name="clone_guide_copy_tip7">포즈를 실험해보십시오</string>
+    <string name="clone_guide_copy_title2">프리즈 프레임 동영상</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">자동으로 사람과 동물에 대한 초점를 유지하시려면 켜십시오. 수동으로 추적할 대상을 선택하실 수도 있습니다.</string>
+    <string name="pref_camera_track_focus_preferred_title">초점 추적</string>
+    <string name="pref_video_ai_audio_single">정면의 소리</string>
+    <string name="prek_b_j_o">스테레오 서라운드 효과 재현</string>
+    <string name="prek_b_j_p">녹화 시 바람의 영향을 경감</string>
+    <string name="prep_video_ai_audio_single_desc_tip">녹화 중 화면 뒤로부터의 소리를 필터링</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

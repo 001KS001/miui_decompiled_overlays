@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">சரிப்படுத்து</string>
+    <string name="clone_copy_mode">ஃப்ரீஸ் ஃப்ரேம்</string>
+    <string name="clone_drag_to_adjust_the_posture">சரிப்படுத்த, தேர்ந்தெடுத்த இழுக்கவும்</string>
+    <string name="clone_guide_copy_tip3">நகரும் ஒரு சப்ஜெக்ட்டைத் திரையை முழுமையாக கடக்கும் வரை பதிவு செய்யவும்.</string>
+    <string name="clone_guide_copy_tip5">உங்கள் சப்ஜெக்ட் ஸ்கீ செய்யலாம், பேஸ்கட்பால் ஆடலாம், நடனமாடலாம் அல்லது வெறுமன நடக்கலாம்.</string>
+    <string name="clone_guide_copy_tip6">வீடியோ இயங்கும்போது, ஃப்ரீஸ் ஃபிரேம்கள் “தேர்ந்தெடுக்கப்படும்”.</string>
+    <string name="clone_guide_copy_tip7">போஸ்களை முயற்சி செய்து பாருங்கள்.</string>
+    <string name="clone_guide_copy_title2">ஃப்ரீஸ் ஃபிரேம் வீடியோக்கள்</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_frn_f_t">请合上手机使用前置摄像头</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="esp_tip">外部屏幕预览</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">விலங்குகள் மற்றும் மனிதர்கள் மேல் ஃபோகஸைத் தானாக குவிக்க இயக்கவும். கைமுறையாகத் தடமறியவும் பொருட்களை நீங்கள் தேர்ந்தெடுக்க முடியும்.</string>
+    <string name="pref_camera_track_focus_preferred_title">ஃபோகஸ் தடமறிதல்</string>
+    <string name="pref_video_ai_audio_single">முன்புற ஒலி</string>
+    <string name="prek_b_j_o">ஸ்டீரியோ சர்ரவுண்ட் விளைவை மீண்டும் உருவாக்கு</string>
+    <string name="prek_b_j_p">சவுண்ட் ரெக்கார்டிங்கின்போது, காற்றின் தாக்கத்தைக் குறை</string>
+    <string name="prep_video_ai_audio_single_desc_tip">ரெக்கார்டிங்கின்போது, திரைக்குப் பின்னால் இருந்து வரும் ஒலிகளை வடிகட்டு</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>
