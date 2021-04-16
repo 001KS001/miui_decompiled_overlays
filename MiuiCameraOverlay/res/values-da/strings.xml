@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Juster</string>
+    <string name="clone_copy_mode">Frys ramme</string>
+    <string name="clone_drag_to_adjust_the_posture">Vælg og træk for at justere</string>
+    <string name="clone_guide_copy_tip3">Optag et emne, der bevæger sig hele vejen hen over skærmen.</string>
+    <string name="clone_guide_copy_tip5">Dit emne kan stå på ski, spille basketball, danse eller ganske enkelt gå.</string>
+    <string name="clone_guide_copy_tip6">Frosne rammer \"samles op\", mens videoen afspilles.</string>
+    <string name="clone_guide_copy_tip7">Eksperimenter med stillinger.</string>
+    <string name="clone_guide_copy_title2">Frys videoer med ramme</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Tænd for automatisk at bevare fokus på mennesker og dyr. Du vil også være i stand til at vælge emner til manuel sporing.</string>
+    <string name="pref_camera_track_focus_preferred_title">Fokussporing</string>
+    <string name="pref_video_ai_audio_single">Frontlyd</string>
+    <string name="prek_b_j_o">Genskab stereo surrond-effekt</string>
+    <string name="prek_b_j_p">Reducer vindens indvirkning på lydoptagelse</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Filtrer lyde bag skærmen under optagelse</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Përshtat</string>
+    <string name="clone_copy_mode">Korniza e ngrirjes</string>
+    <string name="clone_drag_to_adjust_the_posture">Zgjidhni dhe tërhiqni për ta rregulluar</string>
+    <string name="clone_guide_copy_tip3">Shkrep një subjekt që lëviz në të gjithë ekranin.</string>
+    <string name="clone_guide_copy_tip5">Subjekti juaj mund të skitë, të luajë basketboll, të kërcejë ose thjesht të ecë.</string>
+    <string name="clone_guide_copy_tip6">Kornizat e ngrira do të \"merren\" ndërsa video po luhet.</string>
+    <string name="clone_guide_copy_tip7">Eksperimentoni me poza.</string>
+    <string name="clone_guide_copy_title2">Ngriji videot në kornizë</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Aktivizo për të ruajtur fokusin te njerëzit dhe kafshët automatikisht. Ju gjithashtu do të jeni në gjendje të zgjidhni lëndët për ndjekje manualisht.</string>
+    <string name="pref_camera_track_focus_preferred_title">Ndjekja e fokusit</string>
+    <string name="pref_video_ai_audio_single">Tingulli ballor</string>
+    <string name="prek_b_j_o">Rikrijoni efektin stereo rrethues</string>
+    <string name="prek_b_j_p">Ulja e ndikimit të erës në regjistrimin e zërit</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Filtroni tingujt nga pas ekranit gjatë regjistrimit</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Derinti</string>
+    <string name="clone_copy_mode">Fiksuotas kadras</string>
+    <string name="clone_drag_to_adjust_the_posture">Derinimui pasirinkite ir vilkite</string>
+    <string name="clone_guide_copy_tip3">Filmuokite subjektus judančius per visą ekraną.</string>
+    <string name="clone_guide_copy_tip5">Jūsų subjektai gali slidinėti, žaisti krepšinį, šokti ar papraščiausiai vaikščioti.</string>
+    <string name="clone_guide_copy_tip6">Įšaldyti kadrai bus „pagauti“ vaizdo įrašui grojant.</string>
+    <string name="clone_guide_copy_tip7">Pozuodami nebijokite eksperimentuoti.</string>
+    <string name="clone_guide_copy_title2">Fiksuotų kadrų vaizdo įrašai</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Įjunkite, norėdami fokusavimą automatiškai sutelkti ties žmonėmis arba gyvūnais. Subjektų sekimą taip pat galėsite pasirinkti rankiniu būdu.</string>
+    <string name="pref_camera_track_focus_preferred_title">Fokusavimo sekimas</string>
+    <string name="pref_video_ai_audio_single">Priekinis garsas</string>
+    <string name="prek_b_j_o">Atkurti erdvinį stereo efektą</string>
+    <string name="prek_b_j_p">Sumažinti vėjo garso poveikį įrašymo metu</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Įrašymo metu filtruoti garsus iš už ekrano</string>
+    <string name="ultra_pixel_100mp">100 MP</string>
+    <string name="ultra_pixel_50mp">50 MP</string>
+</resources>

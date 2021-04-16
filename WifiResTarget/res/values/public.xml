@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_wifiSoftapHeSuBeamformeeSupported" id="0x7f010000" />
+    <public type="bool" name="config_wifiSoftapHeSuBeamformerSupported" id="0x7f010001" />
+    <public type="bool" name="config_wifiSoftapIeee80211axSupported" id="0x7f010002" />
+</resources>

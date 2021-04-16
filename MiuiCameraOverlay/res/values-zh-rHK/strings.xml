@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clone_adjust">調整分身</string>
+    <string name="clone_copy_mode">定格模式</string>
+    <string name="clone_drag_to_adjust_the_posture">選定並拖動可調整定格分身</string>
+    <string name="clone_guide_copy_tip3">建議主體從一側移動到另一側</string>
+    <string name="clone_guide_copy_tip5">滑雪、投籃、跳舞</string>
+    <string name="clone_guide_copy_tip6">定格連貫動作</string>
+    <string name="clone_guide_copy_tip7">抓拍多個姿勢</string>
+    <string name="clone_guide_copy_title2">定格教學</string>
+    <string name="dd_f_t">請合上手機拍攝</string>
+    <string name="dd_unf_t">請展開手機，用外部螢幕拍照</string>
+    <string name="pref_camera_track_focus_preferred_description">包含運動追焦和手動追焦，開啟後系統會自動識別人和寵物進行追焦，也可以雙擊選定任意目標追焦</string>
+    <string name="pref_camera_track_focus_preferred_title">運動追焦</string>
+    <string name="pref_video_ai_audio_single">前置收音</string>
+    <string name="prek_b_j_o">還原聲音在空間內的立體環繞效果</string>
+    <string name="prek_b_j_p">智慧降低風聲對於影片收音的影響</string>
+    <string name="prep_video_ai_audio_single_desc_tip">只收錄螢幕前方的聲音</string>
+    <string name="ultra_pixel_100mp">1億</string>
+    <string name="ultra_pixel_50mp">5000萬</string>
+</resources>

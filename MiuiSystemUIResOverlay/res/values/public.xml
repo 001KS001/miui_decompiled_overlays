@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="config_GammaLinearConvertAValue" id="0x7f010000" />
+    <public type="dimen" name="config_GammaLinearConvertBValue" id="0x7f010001" />
+    <public type="dimen" name="config_GammaLinearConvertCValue" id="0x7f010002" />
+    <public type="dimen" name="config_GammaLinearConvertRValue" id="0x7f010003" />
+</resources>

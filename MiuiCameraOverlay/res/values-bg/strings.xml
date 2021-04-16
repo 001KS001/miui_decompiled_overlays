@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Регулиране</string>
+    <string name="clone_copy_mode">Замразяване на кадър</string>
+    <string name="clone_drag_to_adjust_the_posture">Изберете и плъзнете за регулиране</string>
+    <string name="clone_guide_copy_tip3">Заснемете обект, който се движи по цялата повърхност на екрана</string>
+    <string name="clone_guide_copy_tip5">Вашия обект може да кара ски, да играе баскетбол, да танцува или просто да ходи.</string>
+    <string name="clone_guide_copy_tip6">Замразените кадри ще бъдат \"уловени\" по време на видеото</string>
+    <string name="clone_guide_copy_tip7">Експериментирайте с пози.</string>
+    <string name="clone_guide_copy_title2">Замразяване на кадри от видео</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Включете, за да поддържате фокуса върху хора и животни автоматично. Също така ще можете ръчно да избирате обекти за следене.</string>
+    <string name="pref_camera_track_focus_preferred_title">Следене на фокуса</string>
+    <string name="pref_video_ai_audio_single">Преден звук</string>
+    <string name="prek_b_j_o">Пресъздаване на ефект стерео съраунд звук</string>
+    <string name="prek_b_j_p">Намалете въздействието на вятъра по време на звукозапис</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Филтрирайте звуци от зад екрана по време на звукозапис</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

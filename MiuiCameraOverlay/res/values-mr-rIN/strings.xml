@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">एडजस्ट</string>
+    <string name="clone_copy_mode">फ्रीझ फ्रेम</string>
+    <string name="clone_drag_to_adjust_the_posture">एडजस्ट करण्यासाठी निवडा आणि ओढा</string>
+    <string name="clone_guide_copy_tip3">स्क्रीनवर सर्वत्र फिरत असलेला एखादा विषय शूट करा.</string>
+    <string name="clone_guide_copy_tip5">तुमची विषय स्की, बास्केटबॉल, डान्स, किंवा साधे चालणे असू शकतो.</string>
+    <string name="clone_guide_copy_tip6">व्हिडिओ चालू असताना फ्रोझन फ्रेम \"उचलल्या\" जातील.</string>
+    <string name="clone_guide_copy_tip7">पोझेससह प्रयोग करा.</string>
+    <string name="clone_guide_copy_title2">फ्रेम व्हिडिओ फ्रीझ करा</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">लोक आणि प्राण्यांवर ऑटोमॅटिकली लक्ष केंद्रित करण्यासाठी चालू करा. आपण मॅन्युअली ट्रॅकिंगसाठी विषय निवडू शकाल.</string>
+    <string name="pref_camera_track_focus_preferred_title">फोकस ट्रॅकिंग</string>
+    <string name="pref_video_ai_audio_single">पुढचा आवाज</string>
+    <string name="prek_b_j_o">स्टिरिओ सराऊंड इफेक्ट पुन्हा तयार करा</string>
+    <string name="prek_b_j_p">साऊंड रेकॉर्डिंगवरील वाऱ्याचा प्रभाव कमी करा</string>
+    <string name="prep_video_ai_audio_single_desc_tip">रेकॉर्ड करताना पडद्यामागून आवाज फिल्टर करा</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

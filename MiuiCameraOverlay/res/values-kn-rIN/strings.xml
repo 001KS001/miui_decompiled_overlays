@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">ಹೊಂದಿಸಿ</string>
+    <string name="clone_copy_mode">ಫ್ರೀಜ್‌ ಫ್ರೇಮ್‌</string>
+    <string name="clone_drag_to_adjust_the_posture">ಹೊಂದಿಸಲು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಡ್ರ್ಯಾಗ್‌ ಮಾಡಿ</string>
+    <string name="clone_guide_copy_tip3">ಸ್ಕ್ರೀನ್‌ ತುಂಬಾ ಸರಿದಾಡುತ್ತಿರುವ ವಸ್ತುವನ್ನು ಶೂಟ್‌ ಮಾಡಿ.</string>
+    <string name="clone_guide_copy_tip5">ಆ ವ್ಯಕ್ತಿ ಸ್ಕೀ ಮಾಡಬಹುದು, ಬಾಸ್ಕೆಟ್‌ಬಾಲ್‌ ಆಡಬಹುದು, ನರ್ತಿಸಬಹುದು ಅಥವಾ ನಡೆಯಬಹುದು.</string>
+    <string name="clone_guide_copy_tip6">ವೀಡಿಯೊಗಳು ಪ್ಲೇ ಆಗುವಾಗ ಫ್ರೀಜ್ ಆದ ಫ್ರೇಮ್‌ಗಳನ್ನು \"ಎತ್ತಿಕೊಳ್ಳಲಾಗುತ್ತದೆ\".</string>
+    <string name="clone_guide_copy_tip7">ಪೋಸ್‌ಗಳೊಂದಿಗೆ ಪ್ರಯೋಗ ನಡೆಸಿ</string>
+    <string name="clone_guide_copy_title2">ಫ್ರೀಜ್‌ ಫ್ರೇಮ್‌ ವೀಡಿಯೊಗಳು</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">ವ್ಯಕ್ತಿಗಳು ಹಾಗೂ ಪ್ರಾಣಿಗಳ ಮೇಲೆ ಫೋಕಸ್ ಮಾಡುವಿಕೆಯನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆನ್ ಮಾಡಿ. ಹಾಗೂ ವಸ್ತುಗಳನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಟ್ರ್ಯಾಕ್‌ ಮಾಡಬಹುದು.</string>
+    <string name="pref_camera_track_focus_preferred_title">ಫೋಕಸ್‌ ಟ್ರ್ಯಾಕಿಂಗ್‌</string>
+    <string name="pref_video_ai_audio_single">ಫ್ರಾಂಟಲ್‌ ಸೌಂಡ್‌</string>
+    <string name="prek_b_j_o">ಸ್ಟೀರಿಯೊ ಸರೌಂಡ್‌ ಎಫೆಕ್ಟ್‌ ಮರುರಚಿಸಿ</string>
+    <string name="prek_b_j_p">ಸೌಂಡ್‌ ರೆಕಾರ್ಡಿಂಗ್‌ನಲ್ಲಿ ಗಾಳಿಯ ಗದ್ದಲ ಕಡಿಮೆ ಮಾಡಿ</string>
+    <string name="prep_video_ai_audio_single_desc_tip">ರೆಕಾರ್ಡಿಂಗ್‌ ಮಾಡುವಾಗ ಸ್ಕ್ರೀನ್‌ ಹಿಂಭಾಗದ ಸೌಂಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

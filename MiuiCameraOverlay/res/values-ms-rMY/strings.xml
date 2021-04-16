@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Laras</string>
+    <string name="clone_copy_mode">Bingkai pegun</string>
+    <string name="clone_drag_to_adjust_the_posture">Pilih dan leret untuk melaras</string>
+    <string name="clone_guide_copy_tip3">Merakam subjek yang bergerak di seluruh skrin.</string>
+    <string name="clone_guide_copy_tip5">Subjek anda boleh bermain ski, bermain bola keranjang, menari, atau hanya berjalan kaki.</string>
+    <string name="clone_guide_copy_tip6">Bingkai pegun akan \"diambil\" semasa video dimainkan.</string>
+    <string name="clone_guide_copy_tip7">Eksperimen dengan gaya.</string>
+    <string name="clone_guide_copy_title2">Video bingkai pegun</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Hidupkan untuk terus memberi fokus kepada orang dan haiwan secara automatik. Anda juga dapat memilih subjek untuk dijejaki secara manual.</string>
+    <string name="pref_camera_track_focus_preferred_title">Fokus penjejakan</string>
+    <string name="pref_video_ai_audio_single">Suara dari depan</string>
+    <string name="prek_b_j_o">Buat semula kesan sekeliling stereo</string>
+    <string name="prek_b_j_p">Kurangkan kesan angin pada rakaman suara</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Tapis suara dari belakang skrin semasa merakam</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

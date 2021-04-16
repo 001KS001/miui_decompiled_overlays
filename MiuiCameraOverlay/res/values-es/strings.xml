@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Ajustar</string>
+    <string name="clone_copy_mode">Congelar fotograma</string>
+    <string name="clone_drag_to_adjust_the_posture">Seleccionaa y arrastra para ajustar</string>
+    <string name="clone_guide_copy_tip3">Captura un sujeto que se esté moviendo por toda la pantalla.</string>
+    <string name="clone_guide_copy_tip5">Tu sujeto puede esquiar, jugar al baloncesto, bailar o simplemente caminar.</string>
+    <string name="clone_guide_copy_tip6">Los fotogramas congelados se \"recogerán\" mientras se reproduce el vídeo.</string>
+    <string name="clone_guide_copy_tip7">Experimenta con las poses</string>
+    <string name="clone_guide_copy_title2">Congelar fotogramas de vídeos</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Actívalo para mantener el enfoque en personas y animales automáticamente. También podrás seleccionar sujetos para realizar un seguimiento manualmente.</string>
+    <string name="pref_camera_track_focus_preferred_title">Seguimiento de enfoque</string>
+    <string name="pref_video_ai_audio_single">Sonido frontal</string>
+    <string name="prek_b_j_o">Recrear el efecto estéreo envolvente</string>
+    <string name="prek_b_j_p">Reducir el impacto del viento en la grabación de sonido.</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Filtra los sonidos desde detrás de la pantalla durante la grabación</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

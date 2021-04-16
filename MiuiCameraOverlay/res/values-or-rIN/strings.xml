@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">ଆଡଜଷ୍ଟ କରନ୍ତୁ</string>
+    <string name="clone_copy_mode">ଫ୍ରେମ୍‌ ଫ୍ରିଜ୍ କରନ୍ତୁ</string>
+    <string name="clone_drag_to_adjust_the_posture">ଚୟନ କରନ୍ତୁ ଏବଂ ଆଡଜଷ୍ଟ କରିବାକୁ ଡ୍ରାଗ୍ କରନ୍ତୁ</string>
+    <string name="clone_guide_copy_tip3">ସ୍କ୍ରିନରେ ମୁଭ୍ କରୁଥିବା ଏକ ସବଜେକ୍ଟକୁ ସୁଟ୍ କରନ୍ତୁ।</string>
+    <string name="clone_guide_copy_tip5">ଆପଣଙ୍କ ସବଜେକ୍ଟ ସ୍କି କରିପାରେ, ବାସ୍କେଟବଲ୍ ପ୍ଲେ କରିପାରେ, ନାଚି ପାରେ ବା ଚାଲିପାରେ।</string>
+    <string name="clone_guide_copy_tip6">ଭିଡିଓ ପ୍ଲେ ହେଉଥିବା ବେଳେ ଫ୍ରୋଜେନ ଫ୍ରେମଗୁଡ଼ିକ \"ପିକ୍ ଅପ୍\" ହେବ।</string>
+    <string name="clone_guide_copy_tip7">ବିଭିନ୍ନ ପୋଜରେ ପରୀକ୍ଷା କରନ୍ତୁ।</string>
+    <string name="clone_guide_copy_title2">ଫ୍ରେମ୍ ଭିଡିଓ ଫ୍ରିଜ୍ କରନ୍ତୁ</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">ବ୍ୟକ୍ତି ଏବଂ ଜନ୍ତୁମାନଙ୍କ ଉପରେ ସ୍ୱତଃ ଫୋକସ୍ କରିବା ଚାଲୁ କରନ୍ତୁ। ମାନୁଆଲ ଭାବେ ଟ୍ରାକ୍ କରିବା ପାଇଁ ଆପଣ ସବଜେକ୍ଟ ବାଛିବାକୁ ମଧ୍ୟ ସମର୍ଥ ହେବେ।</string>
+    <string name="pref_camera_track_focus_preferred_title">ଟ୍ରାକିଂ ଫୋକସ୍</string>
+    <string name="pref_video_ai_audio_single">ଫ୍ରଣ୍ଟାଲ ସାଉଣ୍ଡ</string>
+    <string name="prek_b_j_o">ଷ୍ଟେରିଓ ସରାଉଣ୍ଡ ଇଫେକ୍ଟ ରିକ୍ରିଏଟ୍ କରନ୍ତୁ</string>
+    <string name="prek_b_j_p">ସାଉଣ୍ଡ ରେକର୍ଡିଂରେ ପବନର ପ୍ରଭାବକୁ ହ୍ରାସ କରନ୍ତୁ</string>
+    <string name="prep_video_ai_audio_single_desc_tip">ରେକର୍ଡିଂ ସମୟରେ ସ୍କ୍ରିନ ପଛପଟେ ସାଉଣ୍ଡଗୁଡ଼ିକୁ ଫିଲଟର୍ କରନ୍ତୁ</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

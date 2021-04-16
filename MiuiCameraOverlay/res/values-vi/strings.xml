@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Điều chỉnh</string>
+    <string name="clone_copy_mode">Đ.băng k.hình</string>
+    <string name="clone_drag_to_adjust_the_posture">Chọn và kéo để điều chỉnh</string>
+    <string name="clone_guide_copy_tip3">Quay đối tượng di chuyển ngang qua màn hình</string>
+    <string name="clone_guide_copy_tip5">Chủ thể có thể trượt tuyết, chơi bóng rổ, khiêu vũ hoặc đơn giản là đi bộ.</string>
+    <string name="clone_guide_copy_tip6">Khung hình bị đóng băng sẽ \"di chuyển\" khi video được phát.</string>
+    <string name="clone_guide_copy_tip7">Trải nghiệm với kiểu ảnh sáng tạo.</string>
+    <string name="clone_guide_copy_title2">Đ.băng k.hình video</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Bật để bám lấy nét theo người và động vật tự động. Bạn cũng có thể chọn đối tượng để bám lấy nét thủ công.</string>
+    <string name="pref_camera_track_focus_preferred_title">Lấy nét bám theo đối tượng</string>
+    <string name="pref_video_ai_audio_single">Âm thanh phía trước</string>
+    <string name="prek_b_j_o">Tạo lại hiệu ứng âm thanh vòm</string>
+    <string name="prek_b_j_p">Giảm tác động của gió đến ghi âm</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Lọc âm thanh từ phía sau màn hình trong khi ghi</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

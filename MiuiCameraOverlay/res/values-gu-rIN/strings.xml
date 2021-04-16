@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">સંતુલિત</string>
+    <string name="clone_copy_mode">ફ્રીઝ ફ્રેમ</string>
+    <string name="clone_drag_to_adjust_the_posture">સમાયોજિત કરવા માટે પસંદ કરો અને ખેંચો</string>
+    <string name="clone_guide_copy_tip3">સ્ક્રીન પર બધેજ ફરતા વિષય પર શૂટ કરો.</string>
+    <string name="clone_guide_copy_tip5">તમારો વિષય સ્કી કરી શકે છે, બાસ્કેટબોલ રમી શકે છે, નૃત્ય કરી શકે છે અથવા ખાલી ચાલી શકે છે.</string>
+    <string name="clone_guide_copy_tip6">વિડિઓ ચાલતી વખતે ફ્રોઝન ફ્રેમ્સ \"પસંદ\" કરવામાં આવશે.</string>
+    <string name="clone_guide_copy_tip7">વિવિધ પોઝ બનાવી જુઓ.</string>
+    <string name="clone_guide_copy_title2">ફ્રીઝ ફ્રેમ વિડિઓ</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">લોકો અને પ્રાણીઓ પર આપમેળે ધ્યાન કેન્દ્રિત કરવા માટે ચાલુ કરો. તમે જાતે ટ્રેકિંગ કરવા માટે વિષયો પસંદ કરી શકશો.</string>
+    <string name="pref_camera_track_focus_preferred_title">ફોકસ ટ્રેકિંગ</string>
+    <string name="pref_video_ai_audio_single">આગળનો અવાજ</string>
+    <string name="prek_b_j_o">સ્ટીરિઓ આસપાસની ઇફેક્ટ ફરીથી બનાવો</string>
+    <string name="prek_b_j_p">સાઉન્ડ રેકોર્ડિંગ પર પવનની અસર ઓછી કરો</string>
+    <string name="prep_video_ai_audio_single_desc_tip">રેકોર્ડ કરતી વખતે સ્ક્રીનની પાછળનો અવાજ ફિલ્ટર કરો</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

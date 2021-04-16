@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">సర్దుబాటు చేయి</string>
+    <string name="clone_copy_mode">ఫ్రేమ్‌ని ఆపివేయి</string>
+    <string name="clone_drag_to_adjust_the_posture">సర్దుబాటు చేసేందుకు ఎంపిక చేసి, లాగండి</string>
+    <string name="clone_guide_copy_tip3">స్క్రీన్ ఒకవైపు నుండి మరోవైపు కదులుతున్న ఒక సబ్జెక్ట్‌ని షూట్ చేయండి.</string>
+    <string name="clone_guide_copy_tip5">మీ సబ్జెక్ట్ ఆకాశం, బాస్కెట్‌బాల్ ఆటగాళ్లు, డాన్స‌ర్లు లేదా నడుస్తున్నవారు ఎవరైనా కావచ్చు.</string>
+    <string name="clone_guide_copy_tip6">వీడియో ప్లే అవుతున్నప్పుడు ఆపివేసిన ఫ్రేమ్‌లు \"ఎంపిక చేయబడతాయి\".</string>
+    <string name="clone_guide_copy_tip7">పలు భంగిమలతో ప్రయత్నించండి</string>
+    <string name="clone_guide_copy_title2">ఫ్రేమ్‌లు ఆపివేసిన వీడియోలు</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">వ్యక్తులు మరియు జంతువుల మీద ఆటోమేటిక్‌గా ఫోకస్ చేసేందుకు ఆన్ చేయండి. మాన్యువల్‌గా ట్రాక్ చేసేందుకు మీరు సబ్జెక్ట్‌లను ఎంచుకునే వీలు ఉంటుంది.</string>
+    <string name="pref_camera_track_focus_preferred_title">ఫోకస్ ట్రాకింగ్</string>
+    <string name="pref_video_ai_audio_single">ముందు శబ్దం</string>
+    <string name="prek_b_j_o">స్టీరియో సరౌండ్ ప్రభావాన్ని పునఃసృష్టించు</string>
+    <string name="prek_b_j_p">శబ్దాన్ని రికార్డింగ్ చేస్తున్నప్పుడు గాలి ప్రభావాన్ని తగ్గిస్తుంది</string>
+    <string name="prep_video_ai_audio_single_desc_tip">రికార్డ్ చేస్తున్నప్పుడు స్క్రీన్ వెనుకవైపు నుండి వస్తున్న శబ్దాల్ని ఫిల్టర్ చేస్తుంది</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_video_sky_function_on">打开视频换天功能</string>
+    <string name="accessibility_video_sky_function_panel_on">打开视频换天功能面板</string>
+    <string name="clone_adjust">Doitu</string>
+    <string name="clone_copy_mode">Izoztu fotograma</string>
+    <string name="clone_drag_to_adjust_the_posture">Hautatu eta arrastatu doitzeko</string>
+    <string name="clone_guide_copy_tip3">Grabatu pantaila osan zehar mugitzen ari den subjektu bat.</string>
+    <string name="clone_guide_copy_tip5">Subjektuak eskiatu, saskibaloia jokatu eta dantzatu dezake, edo soilik ibili daiteke.</string>
+    <string name="clone_guide_copy_tip6">Izoztutako fotogramak \"jasoko\" dira bideoa erreproduzitzen den bitartean.</string>
+    <string name="clone_guide_copy_tip7">Esperimentatu jarrerekin.</string>
+    <string name="clone_guide_copy_title2">Izoztu bideo fotogramak</string>
+    <string name="dd_f_t">请合上手机拍摄</string>
+    <string name="dd_unf_t">请展开手机，用外部屏幕拍照</string>
+    <string name="magic_video_sky_effect_type_1">晴天</string>
+    <string name="magic_video_sky_effect_type_2">晴空</string>
+    <string name="magic_video_sky_effect_type_3">多云</string>
+    <string name="magic_video_sky_effect_type_4">夕阳</string>
+    <string name="magic_video_sky_effect_type_5">晚霞</string>
+    <string name="magic_video_sky_fragment_tab_name">AI换天</string>
+    <string name="pref_camera_track_focus_preferred_description">Aktibatu fokuratzea pertsonetan eta animalietan automatikoki mantentzekok. Subjektuak ere hautatu ahal izango dituzu hauen segimendua eskuz egiteko.</string>
+    <string name="pref_camera_track_focus_preferred_title">Fokuratzearen segimendua</string>
+    <string name="pref_video_ai_audio_single">Aurreko soinua</string>
+    <string name="prek_b_j_o">Islatu inguruko estereo efektua</string>
+    <string name="prek_b_j_p">Murriztu haizeak soinu grabaketan duen eragina</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Iragazi pantailaren atzealdeko soinuak grabatzen duzun bitartean</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
+</resources>
