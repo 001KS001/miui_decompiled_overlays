@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_enableFodCircleHalo">false</bool>
+    <bool name="config_enableFodNonuiSensor">true</bool>
+    <bool name="config_enableGradualGreenCircle">true</bool>
+    <bool name="support_round_corner">true</bool>
+</resources>
